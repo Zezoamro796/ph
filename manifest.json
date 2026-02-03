@@ -3,7 +3,7 @@
   "name": "DR. HEBA AKL Pharmacy",
   "short_name": "DR. HEBA AKL",
   "description": "صيدلية د. هبة عقل - Pharmacy and Wellness",
-  "start_url": "https://hebaakl.gt.tc/",
+  "start_url": "https://hebaakl.gt.tc",
   "scope": "/",
   "display": "standalone",
   "display_override": [
@@ -40,4 +40,5 @@
     "medical",
     "shopping"
   ]
+
 }
